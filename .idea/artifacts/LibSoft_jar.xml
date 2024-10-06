@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LibSoft:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LibSoft_jar</output-path>
+    <root id="archive" name="LibSoft.jar">
+      <element id="module-output" name="LibSoft" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/flatlaf-3.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
